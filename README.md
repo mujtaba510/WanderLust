@@ -1,8 +1,4 @@
-Here's a professional `README.md` file for your **WanderLust – Trip Explorer** project:
 
----
-
-```markdown
 # 🌍 WanderLust – Trip Explorer
 
 WanderLust is a full-stack travel listings platform that allows users to explore, add, update, and delete travel destinations, as well as post and read reviews. Built using the MERN stack with EJS templating, the platform offers a user-friendly experience for travel enthusiasts and explorers.
