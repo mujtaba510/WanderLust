@@ -21,9 +21,6 @@ WanderLust is a full-stack travel listings platform that allows users to explore
 - **Authentication**: Passport.js (or any auth strategy you used)
 - **Templating Engine**: EJS
 
-## 📂 Project Structure
-
-```
 
 
 ## 🔧 Installation
@@ -32,7 +29,7 @@ WanderLust is a full-stack travel listings platform that allows users to explore
    ```bash
    git clone https://github.com/yourusername/WanderLust.git
    cd WanderLust
-````
+   ```
 
 2. **Install dependencies**
 
