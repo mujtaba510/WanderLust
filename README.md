@@ -52,6 +52,6 @@ WanderLust is a full-stack travel listings platform that allows users to explore
    npm start
    ```
 
-5. Visit `http://localhost:3000` in your browser to explore the app.
+5. Visit `http://localhost:3000/listings` in your browser to explore the app.
 
 
